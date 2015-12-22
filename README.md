@@ -15,7 +15,7 @@ The server and the video processing task should run in parallel.
 
 In order to track the LED board, ORB [1] features were extracted using OpenCV framework.
 Furthermore a FLANN-based descriptor matcher [2] was employed.
-See plannar_tracking.py example of OpenCV.
+See planne_tracker.py example of OpenCV.
 
 The solution constructed is provided in "source"
 
