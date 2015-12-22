@@ -20,4 +20,5 @@ See plannar_tracking.py example of OpenCV.
 The solution constructed is provided in "source"
 
 [1] Ethan Rublee, Vincent Rabaud, Kurt Konolige and Gary R. Bradski in their paper ORB: An efficient alternative to SIFT or SURF, 2011
+
 [2] Marius Muja and David G. Lowe, "Fast Approximate Nearest Neighbors with Automatic Algorithm Configuration", in International Conference on Computer Vision Theory and Applications (VISAPP'09), 2009 
