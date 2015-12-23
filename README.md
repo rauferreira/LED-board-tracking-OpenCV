@@ -1,7 +1,7 @@
 # LED-board-tracking-OpenCV
 
 This project consists of creating a OpenCV/Python server application that tracks a LED boarding (example in source), for assiting in the manufacturing process.
-Besides of physically tracking the board, the system should be able to detect LEDs frequency, color, status and brightness. 
+Besides of physically tracking the board, the system should be able to detect LED's frequency, color, status and brightness. 
 This way we eliminate the need of a human operator.
 
 An overview of the project is illustrated in project_structure.jpg
